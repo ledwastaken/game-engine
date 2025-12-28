@@ -25,6 +25,8 @@
             with pkgs;
             [
               cargo
+              rustfmt
+              rust-analyzer
               libxkbcommon
               pkg-config
               bashInteractive
