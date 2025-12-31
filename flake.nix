@@ -27,6 +27,7 @@
               cargo
               rustfmt
               rust-analyzer
+              rustup
               libxkbcommon
               vulkan-loader
               vulkan-headers
